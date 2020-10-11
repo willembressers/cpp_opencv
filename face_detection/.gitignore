@@ -1,0 +1,9 @@
+
+# make files
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# executables
+face_detection
